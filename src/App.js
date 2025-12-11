@@ -51,6 +51,15 @@ function App() {
               <p>Programming Language</p>
             </div>
           </div>
+          <div class="Skill">
+            <div className="Python-Logo">
+              <img src="/Logo/Python.png" alt="Python Logo" height="50" width="100%"></img>
+            </div>
+            <div className="Skill-Description"> 
+              <h3>Python</h3>
+              <p>Programming Language</p>
+            </div>
+          </div>
         </div>
       </div>
       <div className="Experience">

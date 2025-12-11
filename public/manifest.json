@@ -1,0 +1,86 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "/Logo/React.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/U-M_Logo.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/HPic.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/Figma.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/MBathroom.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/EcoLLM-Cover.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/C++_Logo.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/About.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/LinkedIn.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/GitHub.png",
+      "type": "image/png",
+      "sizes": "150x150"
+
+    },
+    {
+      "src": "/Logo/Youtube.png",
+      "type": "image/png",
+      "sizes": "300x400"
+    },
+    {
+      "src": "/Logo/Instagram.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/U-MD_Logo.jpg",
+      "type": "image/jpg",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/dash(1).png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/Logo/Devpost.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

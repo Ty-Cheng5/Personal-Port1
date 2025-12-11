@@ -17,7 +17,7 @@ function App() {
             </div>
             <div className="Socials">
                 <a href="https://www.linkedin.com/in/ty-senopole-cheng/"><img src="/Logo/LinkedIn.png" alt="LinkedIn Logo" height="50" width="50"></img></a>
-                <a href="https://github.com/Ty-Cheng5"><img src="/Logo/GitHub.png" alt="GitHub Logo" height="50" width="50"></img></a>
+                <a href="https://github.com/Ty-Cheng5"><img src="/Logo/Github.png" alt="GitHub Logo" height="50" width="50"></img></a>
                 <a href="https://www.instagram.com/ty.senopole/"><img src="/Logo/Instagram.png" alt="Instagram Logo" height="50" width="50"></img></a>
               </div>
           </div>

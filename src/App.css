@@ -25,7 +25,7 @@ html, body {
   justify-content: right; /* Center horizontally */
   background-image: 
     linear-gradient(to top, rgba(18, 18, 18, 1), rgba(18, 18, 18, 0.5), rgba(18, 18, 18, 0)), /* Extended gradient for a smoother fade */
-    url(https://via.placeholder.com/500); /* Corrected path */
+    url('/public/Logo/Intro.png'); /* Corrected path */
   background-size: cover;
   background-position: center; /* Ensure the image is centered */
   background-repeat: no-repeat;
